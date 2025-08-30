@@ -24,13 +24,13 @@
 
 <div align="center"> 
   <a href="https://github.com/bahadhay"> 
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> 
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> 
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=bahadhay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadhay&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
+    <img src="https://streak-stats.demolab.com?user=bahadhay&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
   </a> 
   <details> 
     <summary>More stats</summary> 
-    <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> 
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahadhay&theme=tokyonight" /> 
   </details> 
   <hr>
 </div>
@@ -43,6 +43,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Finished but still learning!"/><br>
 
 ---
+
+
 
 ### 🐧 Quick Summary
 💻 Currently learning Web Development, Android, Python, Java, C#, SQL, ASP.NET, and AI.  
