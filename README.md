@@ -22,6 +22,14 @@
 
 ---
 
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs,android,php,mysql,sqlite,git,linux,github,vscode" />
+</p>
+
+---
+
 <div align="center"> 
   <a href="https://github.com/bahadhay"> 
     <img src="https://github-readme-stats.vercel.app/api?username=bahadhay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
@@ -43,8 +51,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Finished but still learning!"/><br>
 
 ---
-
-
 
 ### 🐧 Quick Summary
 💻 Currently learning Web Development, Android, Python, Java, C#, SQL, ASP.NET, and AI.  
