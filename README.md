@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m seeking help with **AI & Cloud Computing**
 - 💬 Ask me about **Programming, GitHub Projects, Mobile Dev, AI, or anything tech**
-- 📫 How to reach me: **bahadhay@gmail.com**
+- 📫 How to reach me: **bahadhay7@gmail.com**
 - ⚡ Fun fact: **Banging your head against a wall for one hour burns 150 calories**
 
 ---
