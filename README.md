@@ -25,11 +25,12 @@
 
 <div align="center"> 
   <a href="https://github.com/bahadhay"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=bahadhay&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadhay&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
-    <img src="https://streak-stats.demolab.com?user=bahadhay&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=bahadhay&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60" width="32.5%"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadhay&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60" width="32.5%"> 
+    <img src="https://streak-stats.demolab.com?user=bahadhay&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60" width="32.5%"> 
   </a> 
 </div>
+
 
 ---
 
