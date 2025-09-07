@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub Statistics & Progress
+## 📊 GitHub Stats & Progress
 
 <div align="center"> 
   <a href="https://github.com/bahadhay"> 
@@ -29,8 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadhay&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
     <img src="https://streak-stats.demolab.com?user=bahadhay&theme=tokyonight&hide_border=true&border_radius=10" width="32.5%"> 
   </a> 
-  <br><br>
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bahadhay.bahadhay)
 </div>
 
 ---
@@ -47,7 +45,6 @@
 💻 Currently learning Web Development, Android, Python, Java, C#, SQL, ASP.NET, and AI.  
 🐧 Enjoy exploring GNU/Linux.  
 🛠 Ask me about Programming, GitHub Projects, Mobile Dev, AI, or anything tech.  
-📬 Find me on Telegram: **bahadhay**
 
 ---
 
@@ -56,6 +53,5 @@
 <p align="center">
   <a href="https://github.com/bahadhay" target="_blank">GitHub</a> • 
   <a href="https://www.linkedin.com/in/bahadhay/" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/bahadhay" target="_blank">Twitter</a> • 
-  <a href="mailto:bahadhay@gmail.com" target="_blank">Email</a>
+  <a href="mailto:bahadhay7@gmail.com" target="_blank">Email</a>
 </p>
